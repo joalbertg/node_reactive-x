@@ -31,3 +31,9 @@ services:
 
 Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicamente graban los cambios antes de ejecutar el ```docker-compose up``` nuevamente)
 
+* [quicktype][app_quicktype_io]
+* [reqres in][reqres_in]
+
+[app_quicktype_io]: https://app.quicktype.io/
+[reqres_in]: https://reqres.in/
+
